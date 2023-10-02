@@ -40,4 +40,10 @@ The dashboards has been prepared based on 6 KPIs -
 3. Turnover rate
 4. Performance Rating
 5. Executive Gender balance
-6. Employees by age group 
+6. Employees by age group
+
+Key Insights:
+1.	As we rise above in hierarchy it is observed that the hiring is less for females as compared to males. However, it is also observed that the Gender balance has improved among executives when comparing years 2020 and 2021 
+2.	Average performance of males is slightly higher as compared to females
+3.	Turnover rate is slightly in males as compared to females
+
