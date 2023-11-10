@@ -41,6 +41,7 @@ The dashboards has been prepared based on 6 KPIs -
 4. Performance Rating
 5. Executive Gender balance
 6. Employees by age group
+![i3-p1](https://github.com/Harikrishnan-Nair/PowerBI-Diversity-and-Inclusion/assets/95662379/d36b918a-4fc3-4441-9577-18ced2f4a585)
 
 Key Insights:
 1.	As we rise above in hierarchy it is observed that the hiring is less for females as compared to males. However, it is also observed that the Gender balance has improved among executives when comparing years 2020 and 2021 
